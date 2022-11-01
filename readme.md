@@ -26,7 +26,7 @@
 <!-- streak and trophies -->
 <p align="center">
   <img height="120" width="110" src="WEBP/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SahilLohan&theme=dark&hide_border=true"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DeviJyoti&theme=dark&hide_border=true"/>
   <img height="120" width="110" src="WEBP/right.webp">
 </p>
 
