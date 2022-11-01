@@ -30,7 +30,7 @@
   <img height="120" width="110" src="WEBP/right.webp">
 </p>
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=SahilLohan&column=8&margin-w=35&margin-h=35&no-bg=true&no-frame=true&theme=radical)](https://github.com/SahilLohan)
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=DeviJyoti&column=8&margin-w=35&margin-h=35&no-bg=true&no-frame=true&theme=radical)](https://github.com/DeviJyoti)
 <br>
 
 <hr>
@@ -56,12 +56,12 @@
 </h1>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SahilLohan&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeviJyoti&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
 <!--   most used langs table -->
-    <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilLOhan&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeviJyoti&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
 
-![Sagar's's github activity graph](https://activity-graph.herokuapp.com/graph?username=SahilLohan&theme=gotham&hide_border=true&area=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true)
+![Sagar's's github activity graph](https://activity-graph.herokuapp.com/graph?username=DeviJyoti&theme=gotham&hide_border=true&area=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true)
 
 <hr>
 
