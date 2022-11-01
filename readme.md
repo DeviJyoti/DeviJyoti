@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Jyoti 😍</h1>
-<h3 align="center">A passionate computer science engineer from India</h3>
+<h1 align="left">Hi 👋, I'm Jyoti 😍</h1>
+<h3 align="left">A passionate computer science engineer from India</h3>
+
+<img align="center" width="330" height="300" src="my.png" alt="Coding">
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devijyoti&label=Profile%20views&color=0e75b6&style=flat" alt="devijyoti" /> </p>
 
